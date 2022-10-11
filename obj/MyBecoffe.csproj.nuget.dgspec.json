@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/jason/LearnNext/MyBecoffe/MyBecoffe.csproj": {}
+    "/home/becode/Learn/MyBecoffe/MyBecoffe.csproj": {}
   },
   "projects": {
-    "/home/jason/LearnNext/MyBecoffe/MyBecoffe.csproj": {
+    "/home/becode/Learn/MyBecoffe/MyBecoffe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/jason/LearnNext/MyBecoffe/MyBecoffe.csproj",
+        "projectUniqueName": "/home/becode/Learn/MyBecoffe/MyBecoffe.csproj",
         "projectName": "MyBecoffe",
-        "projectPath": "/home/jason/LearnNext/MyBecoffe/MyBecoffe.csproj",
-        "packagesPath": "/home/jason/.nuget/packages/",
-        "outputPath": "/home/jason/LearnNext/MyBecoffe/obj/",
+        "projectPath": "/home/becode/Learn/MyBecoffe/MyBecoffe.csproj",
+        "packagesPath": "/home/becode/.nuget/packages/",
+        "outputPath": "/home/becode/Learn/MyBecoffe/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/jason/.nuget/NuGet/NuGet.Config"
+          "/home/becode/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -67,7 +67,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -79,7 +80,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
         }
       }
     }
